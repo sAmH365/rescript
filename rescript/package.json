@@ -1,6 +1,7 @@
 {
   "name": "rescript-bootcamp",
   "version": "0.1.0",
+  "type": "module",
   "scripts": {
     "dev": "nodemon $f",
     "clean": "rescript clean",
